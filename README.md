@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+I am Archie Marshall, an internet entrepreneur and developer from the United Kingdom.
+
+Read my bio on my personal site (coming soon), where you can also reach me.
+
+Currently working on Stealth AI Startup and a few consulting projects.
+
 <!--
 **atwmarshall/atwmarshall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
