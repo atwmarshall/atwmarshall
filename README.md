@@ -2,7 +2,7 @@
 
 I am Archie Marshall, an internet entrepreneur and developer from the United Kingdom.
 
-Read my bio on my personal site (coming soon), where you can also reach me.
+Read more about my company on my website (here)[https://marshallai.tech/].
 
 Currently working on Stealth AI Startup and a few consulting projects.
 
